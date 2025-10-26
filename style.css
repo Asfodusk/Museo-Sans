@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Museo Sans', sans-serif;
+}
+
+body {
+    width: 2226px;
+    overflow-x: hidden;
+    background-color: #98CFFF;
+
+}
+
+section {
+    width: 2226px;
+    height: 1258px;
+}
+
+#cover {
+    background-image: url("Candy_bowl.png");
+    width: 1545px; 
+    height: 1231px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.wrapper1 {
+    background-image: url("Wrapper_long.png");
+    width: 1190px;
+    height: 497px;
+    left: 30px;
+    position: absolute;
+}
+
+#wrapper_1 {top: 1567px;}
+#wrapper_2 {top: 2274px}
+
+.wrapper2 {
+    background-image: url("Wrapper_wide.png");
+    width: 944px;
+    height: 765px;
+    left: 1240px;
+    top: 1795px;
+    position: absolute;
+}
+
+.lollipop1 {
+    background-image: url("Lollipop_blue.png");
+    width: 920px;
+    height: 368px;
+    left: 1223px;
+    position: absolute;
+    object-fit: cover;
+}
+
+#lollipop_1 {top: 1538px;}
+#lollipop_2 {top: 2422px}
+
+.lollipop2 {
+    width: 920px;
+    height: 368px;
+    left: 92px;
+    top: 1973px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.popsicle {
+    background-image: url("Popsicle.png");
+    width: 1117px;
+    height: 907px;
+    left: 518px;
+    top: 2962px;
+    position: absolute;
+}
+
+.candy_long {
+    background-image: url("Long_candy.png");
+    width: 1030px;
+    height: 290px;
+    left: 77px;
+    top: 4107px;
+    position: absolute;
+}
+
+.candies_4 {
+    background-image: url("Candies_4.png");
+    width: 1094px;
+    height: 684px;
+    left: 106px;
+    top: 4529px;
+    position: absolute;
+}
+
+.candies_vert {
+    background-image: url("Candies_vert.png");
+    width: 299px;
+    height: 1228px;
+    left: 1245px;
+    top: 4055px;
+    position: absolute;
+}
+
+.candies_3 {
+    background-image: url("Candies_3.png");
+    width: 538px;
+    height: 1101px;
+    left: 1582px;
+    top: 4114px;
+    position: absolute;
+}
+
+.candy_cane {
+    background-image: url("Candy_cane.png");
+    width: 2157px;
+    height: 697px;
+    position: absolute;
+}
+
+#cane_1 {}
+#cane_2 {}
+
+.mint_big {
+    background-image: url("Mint_pink.png");
+    width: 270px;
+    height: 270px;
+    position: absolute;
+}
+
+#big_1 {left: 239px; top: 5706px;}
+#big_2 {left: 1734px; top: 5937px;}
