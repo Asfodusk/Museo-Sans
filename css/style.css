@@ -1,0 +1,366 @@
+@import url('font.css');
+@import url('reset.css');
+
+header, footer {
+    height: 275px;
+    width: 2226px;
+    background-color: #98CFFF;
+}
+
+body {
+    width: 2226px;
+    overflow-x: hidden;
+    background-color: #98CFFF;
+
+}
+
+section {
+    width: 2226px;
+    height: 1258px;
+
+}
+
+#screen_1 {}
+#screen_2 {}
+#screen_3 {}
+#screen_4 {}
+#screen_5 {}
+#screen_6 {}
+
+
+.h1 {
+    font-size: 140px;
+    font-weight: 500;
+    color: #FFFFFF;
+    -webkit-text-stroke: 14px #DC4E6A;
+    paint-order: stroke fill;
+    rotate: 323deg;
+    width: 675px; 
+    height: 168px;
+    left: 877px;
+    top: 3230px;
+    position: absolute;
+}
+
+.h2 {
+    font-size: 160px;
+    font-weight: 500;
+    color: #FFFFFF;
+    left: 359px;
+    top: 4171px;
+    position: absolute;
+}
+
+.h3 {
+    font-size: 240px;
+    font-weight: 500;
+    color: #0D3E95;
+}
+
+.h4 {
+    font-size: 160px;
+    font-weight: 500;
+    color: #0D3E95;
+}
+
+.p1 {
+    font-size: 50px;
+    font-weight: 300;
+    color: #0D3E95;
+    position: absolute;
+}
+
+#p1_1 {
+    width: 714px; 
+    height: 180px;
+    left: 257px;
+    top: 1707px;
+    text-align: center;
+}
+#p1_2 {
+    width: 609px; 
+    height: 180px;
+    left: 330px;
+    top: 2420px;
+    text-align: center;
+}
+#p1_3 {
+    width: 454px; 
+    height: 300px;
+    left: 1470px;
+    top: 1991px;
+}
+#p1_4 {
+    width: 228px; 
+    height: 120px;
+    left: 113px;
+    top: 3200px;
+    text-align: center;
+}
+#p1_5 {
+    width: 272px; 
+    height: 180px;
+    left: 1817px;
+    top: 3679px;
+    text-align: center;
+}
+#p1_6 {
+    width: 319px; 
+    height: 60px;
+    left: 100px;
+    top: 3509px;
+}
+#p1_7 {
+    width: 157px; 
+    height: 60px;
+    left: 702px;
+    top: 3202px;
+    text-align: center;
+}
+#p1_8 {
+    width: 288px; 
+    height: 120px;
+    left: 1718px;
+    top: 3222px;
+    text-align: center;
+}
+
+.p2 {
+    font-size: 580px;
+    font-weight: 300;
+    color: #FFFFFF;
+    -webkit-text-stroke: 14px #DC4E6A;
+    paint-order: stroke fill;
+    position: absolute;
+    height: 696px;
+}
+#p2_1 {
+    width: 315px; 
+    left: 62px;
+    top: 2610px;
+}
+#p2_2 {
+    width: 208px; 
+    left: 169px;
+    top: 3385px;
+}
+#p2_3 {
+    width: 288px;
+    left: 624px;
+    top: 2575px;
+}
+#p2_4 {
+    width: 300px;
+    left: 1712px;
+    top: 2605px;
+}
+#p2_5 {
+    width: 362px;
+    left: 1430px;
+    top: 3358px;
+}
+
+.p3 {
+    font-size: 190px;
+    font-weight: 500;
+    color: #FFFFFF;
+    position: absolute;
+}
+#p2_5 {
+    left: 1430px;
+    top: 3358px;
+}
+
+
+.menu {
+    position: absolute;
+    width: 2129px; 
+    height: 170px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.cover {
+    background-image: url("../assets/images/Candy_bowl.png");
+    width: 1533px; 
+    height: 1222px;
+    position: absolute;
+    left: 347px;
+    top: 300px;
+
+}
+
+.wrapper1 {
+    background-image: url("../assets/images/Wrapper_long.png");
+    width: 1190px;
+    height: 497px;
+    left: 30px;
+    position: absolute;
+}
+
+#wrapper_1 {top: 1567px;}
+#wrapper_2 {top: 2274px;}
+
+.wrapper2 {
+    background-image: url("../assets/images/Wrapper_wide.png");
+    width: 944px;
+    height: 765px;
+    left: 1240px;
+    top: 1795px;
+    position: absolute;
+}
+
+.lollipop1 {
+    background-image: url("../assets/images/Lollipop_blue.png");
+    width: 920px;
+    height: 368px;
+    left: 1223px;
+    position: absolute;
+    object-fit: cover;
+}
+
+#lollipop_1 {top: 1558px;}
+#lollipop_2 {top: 2402px;}
+
+.lollipop2 {
+    width: 920px;
+    height: 368px;
+    left: 92px;
+    top: 441px;
+    position: relative;
+    object-fit: cover;
+}
+
+.popsicle {
+    background-image: url("../assets/images/Popsicle.png");
+    width: 1117px;
+    height: 907px;
+    left: 518px;
+    top: 2962px;
+    position: absolute;
+}
+
+.drops {
+    background-image: url("../assets/images/Drops.png");
+    width: 2012px;
+    height: 1215px;
+    left: 202px;
+    top: 2808px;
+    position: absolute;
+}
+
+.lines {
+    background-image: url("../assets/images/Lines.png");
+    width: 91px;
+    height: 302px;
+    left: 344px;
+    top: 2864px;
+    position: absolute;
+}
+
+.highlight {
+    background-image: url("../assets/images/Highlight.png");
+    width: 122px;
+    height: 122px;
+    position: absolute;
+}
+
+#hl_1 {left: 198px; top: 3644px;}
+#hl_2 {left: 678px; top: 2914px;}
+#hl_3 {left: 1837px; top: 2932px;}
+
+.wrapper_small1 {
+    background-image: url("../assets/images/Wrapper_long_small.png");
+    width: 389px;
+    height: 163px;
+    position: absolute;
+}
+
+#wrapper_small_1 {left: 67px; top: 3457px;}
+#wrapper_small_2 {left: 586px; top: 3150px;}
+#wrapper_small_3 {left: 1669px; top: 3208px;}
+
+.wrapper_small2 {
+    background-image: url("../assets/images/Wrapper_wide_small.png");
+    width: 308px;
+    height: 250px;
+    position: absolute;
+}
+
+#wrapper_small_4 {left: 73px; top: 3146px;}
+#wrapper_small_5 {left: 1800px; top: 3647px;}
+
+.candy_long {
+    background-image: url("../assets/images/Long_candy.png");
+    width: 1030px;
+    height: 290px;
+    left: 77px;
+    top: 4127px;
+    position: absolute;
+}
+
+.candies_4 {
+    background-image: url("../assets/images/Candies_4.png");
+    width: 1094px;
+    height: 684px;
+    left: 106px;
+    top: 4549px;
+    position: absolute;
+}
+
+.candies_vert {
+    background-image: url("../assets/images/Candies_vert.png");
+    width: 299px;
+    height: 1228px;
+    left: 1245px;
+    top: 4075px;
+    position: absolute;
+}
+
+.candies_3 {
+    background-image: url("../assets/images/Candies_3.png");
+    width: 538px;
+    height: 1101px;
+    left: 1582px;
+    top: 4134px;
+    position: absolute;
+}
+
+.candy_cane {
+    background-image: url("../assets/images/Candy_cane.png");
+    width: 2157px;
+    height: 697px;
+    left: 35px;
+    position: absolute;
+}
+
+#cane_1 {top: 5490px;}
+#cane_2 {top: 5724px; rotate: 180deg;}
+
+.mint_big {
+    background-image: url("../assets/images/Mint_pink.png");
+    width: 270px;
+    height: 270px;
+    position: absolute;
+}
+
+#big_1 {left: 225px; top: 5706px;}
+#big_2 {left: 1734px; top: 5937px;}
+
+.candy_bag {
+    background-image: url("../assets/images/Candy_bag.png");
+    width: 948px;
+    height: 941px;
+    left: 297px;
+    top: 6843px;
+    position: absolute;
+}
+
+.icecream {
+    background-image: url("../assets/images/Icecream.png");
+    width: 493px;
+    height: 955px;
+    left: 1332px;
+    top: 6838px;
+    position: absolute;
+}
