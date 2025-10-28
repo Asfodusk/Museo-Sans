@@ -20,7 +20,7 @@ section {
 
 }
 
-footer {top: 7830px;}
+footer {top: 7890px; position:absolute;}
 
 #screen_1 {}
 #screen_2 {}
@@ -66,12 +66,18 @@ footer {top: 7830px;}
     font-size: 240px;
     font-weight: 500;
     color: #0D3E95;
+    left: 635px;
+    top: 5721px;
+    position: absolute;
 }
 
 .h4 {
     font-size: 160px;
     font-weight: 500;
     color: #0D3E95;
+    left: 521px;
+    top: 6611px;
+    position: absolute;
 }
 
 .p1 {
@@ -176,10 +182,8 @@ footer {top: 7830px;}
     font-weight: 500;
     color: #FFFFFF;
     position: absolute;
-}
-#p2_5 {
-    left: 1430px;
-    top: 3358px;
+    left: 289px;
+    top: 4547px;
 }
 
 
