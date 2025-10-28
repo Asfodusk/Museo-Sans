@@ -20,6 +20,8 @@ section {
 
 }
 
+footer {top: 7830px;}
+
 #screen_1 {}
 #screen_2 {}
 #screen_3 {}
@@ -27,6 +29,15 @@ section {
 #screen_5 {}
 #screen_6 {}
 
+.h0 {
+    font-size: 260px;
+    font-weight: 300;
+    color: #0D3E95;
+    position: absolute;
+}
+
+#h0_1 {left: 718px; top: 880px;}
+#h0_2 {left: 855px; top: 1066px;}
 
 .h1 {
     font-size: 140px;
