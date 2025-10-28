@@ -81,6 +81,15 @@ footer {top: 7890px; position:absolute;}
     position: absolute;
 }
 
+.p_foot {
+    font-size: 70px;
+    font-weight: 100;
+    color: #FFFFFF;
+    left: 570px;
+    top: 44px;
+    position: relative;
+}
+
 .p1 {
     font-size: 50px;
     font-weight: 300;
