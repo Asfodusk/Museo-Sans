@@ -66,10 +66,11 @@ footer {top: 7890px; position:absolute;}
     font-size: 240px;
     font-weight: 500;
     color: #0D3E95;
-    left: 635px;
-    top: 5721px;
     position: absolute;
 }
+
+#h3_1 {left: 635px; top: 5721px;}
+#h3_2 {left: 956px; top: 5885px;}
 
 .h4 {
     font-size: 160px;
